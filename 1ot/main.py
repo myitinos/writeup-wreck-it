@@ -1,9 +1,4 @@
 #! /usr/bin/env python3
-# from subprocess import Popen, PIPE
-# import subprocess
-# import string
-# import multiprocessing
-# import itertools
 
 from subprocess import Popen, PIPE
 from string import ascii_letters, digits

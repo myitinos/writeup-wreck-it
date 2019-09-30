@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 # baca data dari unown.bin
 with open("unown.bin", 'rb') as infile:
     data = infile.read()
